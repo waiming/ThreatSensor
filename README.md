@@ -17,7 +17,6 @@ Violence in public spaces is a growing concern worldwide. Schools, hospitals, an
 - **Multi-Environment Compatibility** – Works in parks, schools, hospitals, malls, and public transport stations.
 - **Scalable & Customizable** – Can be tailored to different security needs and risk levels.
 - **Privacy-Focused AI** – No facial recognition, only behavior analysis to ensure ethical deployment.
-- **Cloud or On-Prem Deployment** – Flexible architecture to fit various security infrastructures.
 
 ## 🚀 Installation
 ### Prerequisites
