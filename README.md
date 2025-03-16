@@ -30,7 +30,7 @@ git clone https://github.com/yourusername/ThreatSensor.git
 cd ThreatSensor
 
 # Create the Conda environment
-conda env create -f environment.yml
+conda env create -f environment.yaml
 
 # Activate the environment
 conda activate threatsensor
