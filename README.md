@@ -73,3 +73,4 @@ For inquiries, support, or collaboration:
 
 ---
 **ThreatSensor: Empowering Safer Communities Through AI-Powered Threat Detection.**
+Project for Voxel51 hackathon. https://voxel51.com/computer-vision-events/visual-ai-hackathon-march-15-2025/
