@@ -63,6 +63,10 @@ We welcome contributions from developers and security experts to improve ThreatS
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more details.
 
+## Dataset used
+https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
+M. Soliman, M. Kamal, M. Nashed, Y. Mostafa, B. Chawky, D. Khattab, “ Violence Recognition from Videos using Deep Learning Techniques”, Proc. 9th International Conference on Intelligent Computing and Information Systems (ICICIS'19), Cairo, pp. 79-84, 2019.
+
 ## 📧 Contact
 For inquiries, support, or collaboration:
 - **GitHub:** [Albert0011](https://github.com/Albert0011) [jdaduica](https://github.com/jdaduica) [waiming](https://github.com/waiming)
