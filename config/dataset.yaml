@@ -1,4 +1,4 @@
-path: /Users/wmwong/Documents/GitHub/ThreatSensor/data/yolov8
+path: /Users/wmwong/Documents/GitHub/ThreatSensor/data/splited/
 train: images/train
 val: images/val
 nc: 2  # Number of classes
