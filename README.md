@@ -35,9 +35,11 @@ conda env create -f environment.yaml
 # Activate the environment
 conda activate threatsensor
 
-# Run the application
-python src/main.py
+# Run the notebook
+cd src/
 ```
+![src/training_yolov8.ipynb] is for the data training based on pre-trained model (fine-tuning)
+![src/camera.ipynb] is to kickstart the camera live detection using fine-tuned model.
 
 ## 📌 Usage
 1. **Deploy ThreatSensor on a security camera feed.**
