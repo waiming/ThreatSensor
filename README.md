@@ -39,8 +39,8 @@ conda activate threatsensor
 cd src/
 ```
 
-[src/training_yolov8.ipynb] is for the data training based on pre-trained model (fine-tuning).
-[src/camera.ipynb] is to kickstart the camera live detection using fine-tuned model.
+- [src/training_yolov8.ipynb](src/training_yolov8.ipynb) is for the data training based on pre-trained model (fine-tuning).
+- [src/camera.ipynb](src/camera.ipynb) is to kickstart the camera live detection using fine-tuned model.
 
 ## 📌 Usage
 1. **Deploy ThreatSensor on a security camera feed.**
